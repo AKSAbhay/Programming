@@ -1,0 +1,8 @@
+D:\VS2022Projects\DemoPoc\DemoPoc\bin\Debug\DemoPoc.exe.config
+D:\VS2022Projects\DemoPoc\DemoPoc\bin\Debug\DemoPoc.exe
+D:\VS2022Projects\DemoPoc\DemoPoc\bin\Debug\DemoPoc.pdb
+D:\VS2022Projects\DemoPoc\DemoPoc\obj\Debug\DemoPoc.csproj.AssemblyReference.cache
+D:\VS2022Projects\DemoPoc\DemoPoc\obj\Debug\DemoPoc.csproj.SuggestedBindingRedirects.cache
+D:\VS2022Projects\DemoPoc\DemoPoc\obj\Debug\DemoPoc.csproj.CoreCompileInputs.cache
+D:\VS2022Projects\DemoPoc\DemoPoc\obj\Debug\DemoPoc.exe
+D:\VS2022Projects\DemoPoc\DemoPoc\obj\Debug\DemoPoc.pdb

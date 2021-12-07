@@ -32,6 +32,9 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>DemoPoc.PrimeNumber</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -43,6 +46,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbstractChild.cs" />
+    <Compile Include="AbstractParent.cs" />
+    <Compile Include="EncapsChild.cs" />
+    <Compile Include="EncapsParent.cs" />
+    <Compile Include="InterfaceDemo.cs" />
+    <Compile Include="PalindromDemo.cs" />
+    <Compile Include="PrimeNumber.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -1,0 +1,8 @@
+D:\VS2022Projects\InheritanceProject\InheritanceProject\bin\Debug\InheritanceProject.exe.config
+D:\VS2022Projects\InheritanceProject\InheritanceProject\bin\Debug\InheritanceProject.exe
+D:\VS2022Projects\InheritanceProject\InheritanceProject\bin\Debug\InheritanceProject.pdb
+D:\VS2022Projects\InheritanceProject\InheritanceProject\obj\Debug\InheritanceProject.csproj.AssemblyReference.cache
+D:\VS2022Projects\InheritanceProject\InheritanceProject\obj\Debug\InheritanceProject.csproj.SuggestedBindingRedirects.cache
+D:\VS2022Projects\InheritanceProject\InheritanceProject\obj\Debug\InheritanceProject.csproj.CoreCompileInputs.cache
+D:\VS2022Projects\InheritanceProject\InheritanceProject\obj\Debug\InheritanceProject.exe
+D:\VS2022Projects\InheritanceProject\InheritanceProject\obj\Debug\InheritanceProject.pdb

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "919789c1-72fd-4106-8d4e-182a182d63e6": {
+      "ProjectGuid": "919789c1-72fd-4106-8d4e-182a182d63e6",
+      "DisplayName": "MvcDataBinding",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

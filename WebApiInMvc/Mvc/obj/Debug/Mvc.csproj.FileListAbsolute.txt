@@ -79,3 +79,9 @@ D:\VS2022Projects\WebApiInMvc\Mvc\obj\Debug\Mvc.dll
 D:\VS2022Projects\WebApiInMvc\Mvc\obj\Debug\Mvc.pdb
 D:\VS2022Projects\WebApiInMvc\Mvc\bin\System.Net.Http.Formatting.dll
 D:\VS2022Projects\WebApiInMvc\Mvc\bin\System.Net.Http.Formatting.xml
+D:\VS2022Projects\WebApiInMvc\Mvc\bin\Swashbuckle.Core.dll
+D:\VS2022Projects\WebApiInMvc\Mvc\bin\System.Web.Http.dll
+D:\VS2022Projects\WebApiInMvc\Mvc\bin\System.Web.Http.WebHost.dll
+D:\VS2022Projects\WebApiInMvc\Mvc\bin\WebActivatorEx.dll
+D:\VS2022Projects\WebApiInMvc\Mvc\bin\System.Web.Http.xml
+D:\VS2022Projects\WebApiInMvc\Mvc\bin\System.Web.Http.WebHost.xml

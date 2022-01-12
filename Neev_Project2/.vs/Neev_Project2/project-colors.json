@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cc298e17-d21c-4722-9d28-9a95af38cd7b": {
+      "ProjectGuid": "cc298e17-d21c-4722-9d28-9a95af38cd7b",
+      "DisplayName": "DataAccessLayer",
+      "ColorIndex": 0
+    },
+    "528934ba-3964-4b2f-8f6a-a820aaf8e789": {
+      "ProjectGuid": "528934ba-3964-4b2f-8f6a-a820aaf8e789",
+      "DisplayName": "DataLayer",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

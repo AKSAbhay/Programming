@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="OfficeModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Employee">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Name" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Designation" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Salary" Type="Int32" />
+  </EntityType>
+  <EntityContainer Name="OfficeEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Employee" EntityType="Self.Employee" />
+    <EntitySet Name="User" EntityType="OfficeModel.User" />
+    <EntitySet Name="UserRole2" EntityType="OfficeModel.UserRole2" />
+    <AssociationSet Name="FK_UserRole2_UserRole2" Association="OfficeModel.FK_UserRole2_UserRole2">
+      <End Role="UserRole2" EntitySet="UserRole2" />
+      <End Role="UserRole21" EntitySet="UserRole2" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" />
+    <Property Name="UserName" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="UserRole2">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="UserId" Type="Int32" />
+    <Property Name="Role" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="UserRole21" Relationship="OfficeModel.FK_UserRole2_UserRole2" FromRole="UserRole2" ToRole="UserRole21" />
+    <NavigationProperty Name="UserRole22" Relationship="OfficeModel.FK_UserRole2_UserRole2" FromRole="UserRole21" ToRole="UserRole2" />
+  </EntityType>
+  <Association Name="FK_UserRole2_UserRole2">
+    <End Type="OfficeModel.UserRole2" Role="UserRole2" Multiplicity="1" />
+    <End Type="OfficeModel.UserRole2" Role="UserRole21" Multiplicity="0..1" />
+    <ReferentialConstraint>
+      <Principal Role="UserRole2">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="UserRole21">
+        <PropertyRef Name="Id" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

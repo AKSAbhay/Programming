@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+<script type="text/javascript">
+
+    $(document).ready(function () {
+
+        $("#txtNumber").bind("keypress", function (e) {
+
+            var keyCode = e.which ? e.which : e.keyCode
+
+            if (!(keyCode >= 48 && keyCode <= 57)) {
+
+                $(".error").css("display", "inline");
+
+                return false;
+
+            } else {
+
+                $(".error").css("display", "none");
+
+            }
+
+        });
+
+    });
+
+</script>
+
+@using (Html.BeginForm("Form1", "index"))
+{
+    <table>
+        <tr>
+            <td>Enter A Text :</td>
+            <td><input type="text" name="txtNumber"/></td>
+        </tr>
+    </table>
+}
+

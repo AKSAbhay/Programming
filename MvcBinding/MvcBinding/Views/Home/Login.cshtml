@@ -1,0 +1,35 @@
+﻿@model MvcBinding.Models.User
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+<table>
+    @using (Html.BeginForm())
+    {
+
+        <tr>
+            <td>User Name : </td>
+            <td>@Html.TextBoxFor(Model => Model.UserName, htmlAttributes: new {@class="form-control"})</td>
+        </tr>
+        <tr>
+            <td>Password : </td>
+            <td>@Html.PasswordFor(Model => Model.Password, htmlAttributes:new{ @class="form-control"})</td>
+        </tr>
+        <tr>
+            <td>Select Role</td>
+            <td>@Html.DropDownList("roles", new List<SelectListItem>() {
+               new SelectListItem {Text="Approver",Value="101"},
+               new SelectListItem{Text="Creator",Value="102"}},"--Select Role--")</td>
+        </tr>
+        <tr>
+            <td>
+                <button type="submit" class="btn btn-success">Login</button>
+            </td>
+            <td>@Html.ActionLink("Register Here", "Register","Home")</td>
+        </tr>
+    }
+</table>
+
+
+

@@ -1,0 +1,8 @@
+D:\VS2022Projects\InterviewProgram\InterviewProgram\bin\Debug\InterviewProgram.exe.config
+D:\VS2022Projects\InterviewProgram\InterviewProgram\bin\Debug\InterviewProgram.exe
+D:\VS2022Projects\InterviewProgram\InterviewProgram\bin\Debug\InterviewProgram.pdb
+D:\VS2022Projects\InterviewProgram\InterviewProgram\obj\Debug\InterviewProgram.csproj.AssemblyReference.cache
+D:\VS2022Projects\InterviewProgram\InterviewProgram\obj\Debug\InterviewProgram.csproj.SuggestedBindingRedirects.cache
+D:\VS2022Projects\InterviewProgram\InterviewProgram\obj\Debug\InterviewProgram.csproj.CoreCompileInputs.cache
+D:\VS2022Projects\InterviewProgram\InterviewProgram\obj\Debug\InterviewProgram.exe
+D:\VS2022Projects\InterviewProgram\InterviewProgram\obj\Debug\InterviewProgram.pdb

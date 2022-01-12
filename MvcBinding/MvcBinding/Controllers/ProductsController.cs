@@ -5,14 +5,21 @@
     using System.Web.Mvc;
     using MvcBinding.Models;
     using System.Net;
+    using System.Web.Security;
+
+    //using MvcBinding.Models;
+    [Authorize]
     public class ProductsController : Controller
     {
         ProductsContext _context = new ProductsContext();
-        
+        DataSource db = new DataSource();
+        [AllowAnonymous]
         public ViewResult Index()
         {
             return View(_context.productsTable.ToList());
         }
+
+        //[Authorize(Users = "Abhay")]
         public ActionResult Details(int? id)
         {
             if (id == null)
@@ -26,6 +33,7 @@
             }
             return View(product);
         }
+        //[Authorize]
         public ActionResult Create()
         {
             return View();
@@ -40,6 +48,7 @@
             _context.SaveChanges();
             return RedirectToAction("Index");
         }
+        //[Authorize]
         public ActionResult Edit(int? id)
         {
             if (id == null)

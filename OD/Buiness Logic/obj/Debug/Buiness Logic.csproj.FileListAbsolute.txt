@@ -1,0 +1,5 @@
+D:\VS2022Projects\OD\Buiness Logic\bin\Debug\Buiness Logic.dll
+D:\VS2022Projects\OD\Buiness Logic\bin\Debug\Buiness Logic.pdb
+D:\VS2022Projects\OD\Buiness Logic\obj\Debug\Buiness Logic.csproj.CoreCompileInputs.cache
+D:\VS2022Projects\OD\Buiness Logic\obj\Debug\Buiness Logic.dll
+D:\VS2022Projects\OD\Buiness Logic\obj\Debug\Buiness Logic.pdb

@@ -1,0 +1,12 @@
+D:\VS2022Projects\OD\Data Access Layer\bin\Debug\Data Access Layer.dll.config
+D:\VS2022Projects\OD\Data Access Layer\bin\Debug\Data Access Layer.dll
+D:\VS2022Projects\OD\Data Access Layer\bin\Debug\Data Access Layer.pdb
+D:\VS2022Projects\OD\Data Access Layer\bin\Debug\EntityFramework.dll
+D:\VS2022Projects\OD\Data Access Layer\bin\Debug\EntityFramework.SqlServer.dll
+D:\VS2022Projects\OD\Data Access Layer\bin\Debug\EntityFramework.xml
+D:\VS2022Projects\OD\Data Access Layer\bin\Debug\EntityFramework.SqlServer.xml
+D:\VS2022Projects\OD\Data Access Layer\obj\Debug\Data Access Layer.csproj.AssemblyReference.cache
+D:\VS2022Projects\OD\Data Access Layer\obj\Debug\Data Access Layer.csproj.CoreCompileInputs.cache
+D:\VS2022Projects\OD\Data Access Layer\obj\Debug\Data Access Layer.csproj.CopyComplete
+D:\VS2022Projects\OD\Data Access Layer\obj\Debug\Data Access Layer.dll
+D:\VS2022Projects\OD\Data Access Layer\obj\Debug\Data Access Layer.pdb

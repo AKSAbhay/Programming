@@ -10,6 +10,11 @@
       "ProjectGuid": "098bcc44-f3a8-4fcd-adad-7a1d5561a67c",
       "DisplayName": "Mvc",
       "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 2

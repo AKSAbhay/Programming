@@ -1,0 +1,8 @@
+D:\VS2022Projects\OopsProject\OopsProject\bin\Debug\OopsProject.exe.config
+D:\VS2022Projects\OopsProject\OopsProject\bin\Debug\OopsProject.exe
+D:\VS2022Projects\OopsProject\OopsProject\bin\Debug\OopsProject.pdb
+D:\VS2022Projects\OopsProject\OopsProject\obj\Debug\OopsProject.csproj.AssemblyReference.cache
+D:\VS2022Projects\OopsProject\OopsProject\obj\Debug\OopsProject.csproj.SuggestedBindingRedirects.cache
+D:\VS2022Projects\OopsProject\OopsProject\obj\Debug\OopsProject.csproj.CoreCompileInputs.cache
+D:\VS2022Projects\OopsProject\OopsProject\obj\Debug\OopsProject.exe
+D:\VS2022Projects\OopsProject\OopsProject\obj\Debug\OopsProject.pdb

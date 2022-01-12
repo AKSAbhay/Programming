@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ec020b75-d8be-4c0e-bdcb-c0ccffde067d": {
+      "ProjectGuid": "ec020b75-d8be-4c0e-bdcb-c0ccffde067d",
+      "DisplayName": "InheritanceProject",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

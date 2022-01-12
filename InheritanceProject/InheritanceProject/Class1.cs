@@ -1,24 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace InheritanceProject
+﻿namespace InheritanceProject
 {
+    using System;
     internal class Class1
     {
         public int l = 0;
         public int n = 0;
         public string str = "Good";
-        /* 
-         * 
-         * *
-         * **
-         * ***
-         * ****
-         
-         */
+        /*Right Angle triangle*/
         public void starPatter()
         {
             Console.WriteLine("****************Program to find the star pattern in triangular form*********");
@@ -33,13 +21,7 @@ namespace InheritanceProject
                 Console.WriteLine();
             }
         }
-        /*
-         * *****
-         * ***
-         * **
-         * **
-         * 
-         */
+        /*Inverted Right Angle Triangle*/
         public void reverseStarPattern()
         {
             Console.WriteLine("****************Program to find the star pattern in triangular form in reverse******************");

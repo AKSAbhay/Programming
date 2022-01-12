@@ -8,5 +8,6 @@
 
         }
         public DbSet<Product> productsTable { get; set; }
+        public DbSet<User> Users { get; set; }
     }
 }

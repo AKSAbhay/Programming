@@ -1,0 +1,8 @@
+D:\VS2022Projects\CollectionsProject\CollectionsProject\bin\Debug\CollectionsProject.exe.config
+D:\VS2022Projects\CollectionsProject\CollectionsProject\bin\Debug\CollectionsProject.exe
+D:\VS2022Projects\CollectionsProject\CollectionsProject\bin\Debug\CollectionsProject.pdb
+D:\VS2022Projects\CollectionsProject\CollectionsProject\obj\Debug\CollectionsProject.csproj.AssemblyReference.cache
+D:\VS2022Projects\CollectionsProject\CollectionsProject\obj\Debug\CollectionsProject.csproj.SuggestedBindingRedirects.cache
+D:\VS2022Projects\CollectionsProject\CollectionsProject\obj\Debug\CollectionsProject.csproj.CoreCompileInputs.cache
+D:\VS2022Projects\CollectionsProject\CollectionsProject\obj\Debug\CollectionsProject.exe
+D:\VS2022Projects\CollectionsProject\CollectionsProject\obj\Debug\CollectionsProject.pdb

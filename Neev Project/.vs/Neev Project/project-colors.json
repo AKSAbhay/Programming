@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "89564571-a4d1-4892-9e80-1243a61e54f2": {
+      "ProjectGuid": "89564571-a4d1-4892-9e80-1243a61e54f2",
+      "DisplayName": "Neev Project",
+      "ColorIndex": 0
+    },
+    "500cf71f-6846-4335-9f49-4f2d6ec2507c": {
+      "ProjectGuid": "500cf71f-6846-4335-9f49-4f2d6ec2507c",
+      "DisplayName": "Data Access Layer",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

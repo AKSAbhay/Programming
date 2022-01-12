@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fe94dce6-2a39-4870-b7e3-2573f2f9d400": {
+      "ProjectGuid": "fe94dce6-2a39-4870-b7e3-2573f2f9d400",
+      "DisplayName": "Buiness Logic",
+      "ColorIndex": 0
+    },
+    "1752f6af-f049-46fd-bdd4-918a539c7d70": {
+      "ProjectGuid": "1752f6af-f049-46fd-bdd4-918a539c7d70",
+      "DisplayName": "Data Access Layer",
+      "ColorIndex": 1
+    },
+    "78e1e100-f9f5-4176-9afa-99e47079f02d": {
+      "ProjectGuid": "78e1e100-f9f5-4176-9afa-99e47079f02d",
+      "DisplayName": "IBL",
+      "ColorIndex": 2
+    },
+    "7f9d4b02-e31a-4885-a1ae-f7d90af4cacc": {
+      "ProjectGuid": "7f9d4b02-e31a-4885-a1ae-f7d90af4cacc",
+      "DisplayName": "Models",
+      "ColorIndex": 3
+    },
+    "bc44e867-034b-4d70-ab7b-89faccda4ec2": {
+      "ProjectGuid": "bc44e867-034b-4d70-ab7b-89faccda4ec2",
+      "DisplayName": "WebApp",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

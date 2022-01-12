@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>DemoPoc.PrimeNumber</StartupObject>
+    <StartupObject>DemoPoc.FindDuplicated</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,13 +48,18 @@
   <ItemGroup>
     <Compile Include="AbstractChild.cs" />
     <Compile Include="AbstractParent.cs" />
+    <Compile Include="DuplicatesinString.cs" />
     <Compile Include="EncapsChild.cs" />
     <Compile Include="EncapsParent.cs" />
+    <Compile Include="FindDuplicated.cs" />
     <Compile Include="InterfaceDemo.cs" />
     <Compile Include="PalindromDemo.cs" />
+    <Compile Include="PallindromInteger2.cs" />
     <Compile Include="PrimeNumber.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StaticNonStatic.cs" />
+    <Compile Include="StringPallindrom.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

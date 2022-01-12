@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Neev Project", "Neev Project\Neev Project.csproj", "{89564571-A4D1-4892-9E80-1243A61E54F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Access Layer", "Data Access Layer\Data Access Layer.csproj", "{500CF71F-6846-4335-9F49-4F2D6EC2507C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89564571-A4D1-4892-9E80-1243A61E54F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89564571-A4D1-4892-9E80-1243A61E54F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89564571-A4D1-4892-9E80-1243A61E54F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89564571-A4D1-4892-9E80-1243A61E54F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{500CF71F-6846-4335-9F49-4F2D6EC2507C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{500CF71F-6846-4335-9F49-4F2D6EC2507C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{500CF71F-6846-4335-9F49-4F2D6EC2507C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{500CF71F-6846-4335-9F49-4F2D6EC2507C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42AB88E9-239D-457B-B348-54A3EB008A91}
+	EndGlobalSection
+EndGlobal
